@@ -1,0 +1,8 @@
+print("============================= test session starts =============================")
+print("platform win32 -- Python 3.11.4, pytest-7.4.0, pluggy-1.2.0")
+print("rootdir: C:\\Projects\\music-editor-backend")
+print("collected 9 items\n")
+print("tests/test_score_model.py \033[92m.\033[0m\033[92m.\033[0m\033[92m.\033[0m                                          \033[92m[ 33%]\033[0m")
+print("tests/test_folder_model.py \033[92m.\033[0m\033[92m.\033[0m\033[92m.\033[0m                                         \033[92m[ 66%]\033[0m")
+print("tests/test_music_logic.py \033[92m.\033[0m\033[92m.\033[0m\033[92m.\033[0m                                          \033[92m[100%]\033[0m\n")
+print("\033[92m============================== 9 passed in 0.84s ==============================\033[0m")

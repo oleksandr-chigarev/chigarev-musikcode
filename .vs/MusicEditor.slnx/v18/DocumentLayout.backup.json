@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sasha\\Desktop\\MusicEditor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sasha\\Desktop\\MusicEditor\\fake_pytest.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:fake_pytest.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sasha\\Desktop\\MusicEditor\\fake_test.js||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:fake_test.js||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sasha\\Desktop\\MusicEditor\\backend\\main.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\main.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sasha\\Desktop\\MusicEditor\\backend\\models.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\models.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sasha\\Desktop\\MusicEditor\\frontend\\tailwind.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frontend\\tailwind.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sasha\\Desktop\\MusicEditor\\frontend\\src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frontend\\src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sasha\\Desktop\\MusicEditor\\frontend\\src\\App.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frontend\\src\\App.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sasha\\Desktop\\MusicEditor\\frontend\\src\\App.jsx||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frontend\\src\\App.jsx||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sasha\\Desktop\\MusicEditor\\backend\\database.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\database.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sasha\\Desktop\\MusicEditor\\backend\\schemas.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\schemas.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sasha\\Desktop\\MusicEditor\\frontend\\src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frontend\\src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sasha\\Desktop\\MusicEditor\\frontend\\postcss.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frontend\\postcss.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "fake_pytest.py",
+              "DocumentMoniker": "C:\\Users\\Sasha\\Desktop\\MusicEditor\\fake_pytest.py",
+              "RelativeDocumentMoniker": "fake_pytest.py",
+              "ToolTip": "C:\\Users\\Sasha\\Desktop\\MusicEditor\\fake_pytest.py",
+              "RelativeToolTip": "fake_pytest.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABIAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAALbSURBVDhPpZRRSFNhFMf/997dberVJiWtMNwIyehJm5RUoLkHoQcJKiQon3zopXyIJETsRQ2kQnxoINFTT71VID2p2DCSQtpot5jMaIK10ql3a9ruvr7v293cNQ2tHxzOdw6X/87OOd8n4NXKaUB6DBALdoAs6K9LihevxWvdcSO1ASGECiZW6UkxUn/FIugol\u002BIok348nVVe3somxTSqu6L8TBF3K\u002BYQl7FXTFysyJRGIJAIdP0L1L4bxmegFWrEOANP7gOfPxnBBiIIrMJ6gf2CJKxhXkwic7wKuOChXZMOZStlgjmrPcPEd2fn6wjUfoLQgIvG7C//yeTkJCKRCKanp9Ha2spz3d3dCIVCmJqaQnNzM88xymkrCtlyspWVlXC73aipqcHo6CiPPR4P6uvr4XK5MDIyAr/fj1QqhSNiAkHo0AypLStk9Pb2YnBwEOPj4/B6vfD5fNA0DcFgEA0NDVyMUSak0FX0XsPR23Ms3lZwYmICPT096OjogKqqaGxs5Hm73Y7h4WHuGWxAl2yqEotVnWOxSVDgfc7CKpuZmUE6ncbQ0BBaWlp4bwOBABYWFvIVsqmzVZKx5ltacjnyU7b4l4lcd5JPjvbMPEnDWN7hcJhybW0lJB5z5uwhrzC3tMwzotH84ptg\u002BXjcfONEZIwTp12kIi9yN0BG2sj/M0WiUrx4pVxcuVkmLX2zCP8tCAt7NeKRO4\u002Bs63KfTdR4cmxsjPtCmpqajNNO\u002BHj3Krs\u002B1hNVpobvxC63FRUOhT5fjA/9nbS7D6wDzyGp87DSzbfSAdmpV2gbFLprMvWbBsDxnrWh83qJEbHVYxiCbOROepXMpuEgtWPSd1TT4Sl077aHvMkutpT9iv1\u002BgsibzIpVYsNcxoFAugJRvRRrG497jNpbAvKM\u002Bnt79n09la2QEep/R\u002ButtdDWbKoySk09ICbDTmk17BSS4f1Izh7\u002BqYcF91z2uuQBfgN8FV7RIFLhdwAAAABJRU5ErkJggg==",
+              "WhenOpened": "2026-05-21T15:34:55.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "fake_test.js",
+              "DocumentMoniker": "C:\\Users\\Sasha\\Desktop\\MusicEditor\\fake_test.js",
+              "RelativeDocumentMoniker": "fake_test.js",
+              "ToolTip": "C:\\Users\\Sasha\\Desktop\\MusicEditor\\fake_test.js",
+              "RelativeToolTip": "fake_test.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-05-21T15:33:07.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "main.jsx",
+              "DocumentMoniker": "C:\\Users\\Sasha\\Desktop\\MusicEditor\\frontend\\src\\main.jsx",
+              "RelativeDocumentMoniker": "frontend\\src\\main.jsx",
+              "ToolTip": "C:\\Users\\Sasha\\Desktop\\MusicEditor\\frontend\\src\\main.jsx",
+              "RelativeToolTip": "frontend\\src\\main.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-05-21T08:20:54.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "App.jsx",
+              "DocumentMoniker": "C:\\Users\\Sasha\\Desktop\\MusicEditor\\frontend\\src\\App.jsx",
+              "RelativeDocumentMoniker": "frontend\\src\\App.jsx",
+              "ToolTip": "C:\\Users\\Sasha\\Desktop\\MusicEditor\\frontend\\src\\App.jsx",
+              "RelativeToolTip": "frontend\\src\\App.jsx",
+              "ViewState": "AgIAAJUBAAAAAAAAAAAAAJsBAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-05-21T08:13:30.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.css",
+              "DocumentMoniker": "C:\\Users\\Sasha\\Desktop\\MusicEditor\\frontend\\src\\App.css",
+              "RelativeDocumentMoniker": "frontend\\src\\App.css",
+              "ToolTip": "C:\\Users\\Sasha\\Desktop\\MusicEditor\\frontend\\src\\App.css",
+              "RelativeToolTip": "frontend\\src\\App.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-05-20T20:59:44.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "index.css",
+              "DocumentMoniker": "C:\\Users\\Sasha\\Desktop\\MusicEditor\\frontend\\src\\index.css",
+              "RelativeDocumentMoniker": "frontend\\src\\index.css",
+              "ToolTip": "C:\\Users\\Sasha\\Desktop\\MusicEditor\\frontend\\src\\index.css",
+              "RelativeToolTip": "frontend\\src\\index.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-05-20T20:40:12.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "tailwind.config.js",
+              "DocumentMoniker": "C:\\Users\\Sasha\\Desktop\\MusicEditor\\frontend\\tailwind.config.js",
+              "RelativeDocumentMoniker": "frontend\\tailwind.config.js",
+              "ToolTip": "C:\\Users\\Sasha\\Desktop\\MusicEditor\\frontend\\tailwind.config.js",
+              "RelativeToolTip": "frontend\\tailwind.config.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-05-20T20:38:33.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "models.py",
+              "DocumentMoniker": "C:\\Users\\Sasha\\Desktop\\MusicEditor\\backend\\models.py",
+              "RelativeDocumentMoniker": "backend\\models.py",
+              "ToolTip": "C:\\Users\\Sasha\\Desktop\\MusicEditor\\backend\\models.py",
+              "RelativeToolTip": "backend\\models.py",
+              "ViewState": "AgIAACMAAAAAAAAAAAAkwCcAAABHAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAALbSURBVDhPpZRRSFNhFMf/997dberVJiWtMNwIyehJm5RUoLkHoQcJKiQon3zopXyIJETsRQ2kQnxoINFTT71VID2p2DCSQtpot5jMaIK10ql3a9ruvr7v293cNQ2tHxzOdw6X/87OOd8n4NXKaUB6DBALdoAs6K9LihevxWvdcSO1ASGECiZW6UkxUn/FIugol\u002BIok348nVVe3somxTSqu6L8TBF3K\u002BYQl7FXTFysyJRGIJAIdP0L1L4bxmegFWrEOANP7gOfPxnBBiIIrMJ6gf2CJKxhXkwic7wKuOChXZMOZStlgjmrPcPEd2fn6wjUfoLQgIvG7C//yeTkJCKRCKanp9Ha2spz3d3dCIVCmJqaQnNzM88xymkrCtlyspWVlXC73aipqcHo6CiPPR4P6uvr4XK5MDIyAr/fj1QqhSNiAkHo0AypLStk9Pb2YnBwEOPj4/B6vfD5fNA0DcFgEA0NDVyMUSak0FX0XsPR23Ms3lZwYmICPT096OjogKqqaGxs5Hm73Y7h4WHuGWxAl2yqEotVnWOxSVDgfc7CKpuZmUE6ncbQ0BBaWlp4bwOBABYWFvIVsqmzVZKx5ltacjnyU7b4l4lcd5JPjvbMPEnDWN7hcJhybW0lJB5z5uwhrzC3tMwzotH84ptg\u002BXjcfONEZIwTp12kIi9yN0BG2sj/M0WiUrx4pVxcuVkmLX2zCP8tCAt7NeKRO4\u002Bs63KfTdR4cmxsjPtCmpqajNNO\u002BHj3Krs\u002B1hNVpobvxC63FRUOhT5fjA/9nbS7D6wDzyGp87DSzbfSAdmpV2gbFLprMvWbBsDxnrWh83qJEbHVYxiCbOROepXMpuEgtWPSd1TT4Sl077aHvMkutpT9iv1\u002BgsibzIpVYsNcxoFAugJRvRRrG497jNpbAvKM\u002Bnt79n09la2QEep/R\u002ButtdDWbKoySk09ICbDTmk17BSS4f1Izh7\u002BqYcF91z2uuQBfgN8FV7RIFLhdwAAAABJRU5ErkJggg==",
+              "WhenOpened": "2026-05-20T16:55:21.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "main.py",
+              "DocumentMoniker": "C:\\Users\\Sasha\\Desktop\\MusicEditor\\backend\\main.py",
+              "RelativeDocumentMoniker": "backend\\main.py",
+              "ToolTip": "C:\\Users\\Sasha\\Desktop\\MusicEditor\\backend\\main.py",
+              "RelativeToolTip": "backend\\main.py",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAEsAAAA4AAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAALbSURBVDhPpZRRSFNhFMf/997dberVJiWtMNwIyehJm5RUoLkHoQcJKiQon3zopXyIJETsRQ2kQnxoINFTT71VID2p2DCSQtpot5jMaIK10ql3a9ruvr7v293cNQ2tHxzOdw6X/87OOd8n4NXKaUB6DBALdoAs6K9LihevxWvdcSO1ASGECiZW6UkxUn/FIugol\u002BIok348nVVe3somxTSqu6L8TBF3K\u002BYQl7FXTFysyJRGIJAIdP0L1L4bxmegFWrEOANP7gOfPxnBBiIIrMJ6gf2CJKxhXkwic7wKuOChXZMOZStlgjmrPcPEd2fn6wjUfoLQgIvG7C//yeTkJCKRCKanp9Ha2spz3d3dCIVCmJqaQnNzM88xymkrCtlyspWVlXC73aipqcHo6CiPPR4P6uvr4XK5MDIyAr/fj1QqhSNiAkHo0AypLStk9Pb2YnBwEOPj4/B6vfD5fNA0DcFgEA0NDVyMUSak0FX0XsPR23Ms3lZwYmICPT096OjogKqqaGxs5Hm73Y7h4WHuGWxAl2yqEotVnWOxSVDgfc7CKpuZmUE6ncbQ0BBaWlp4bwOBABYWFvIVsqmzVZKx5ltacjnyU7b4l4lcd5JPjvbMPEnDWN7hcJhybW0lJB5z5uwhrzC3tMwzotH84ptg\u002BXjcfONEZIwTp12kIi9yN0BG2sj/M0WiUrx4pVxcuVkmLX2zCP8tCAt7NeKRO4\u002Bs63KfTdR4cmxsjPtCmpqajNNO\u002BHj3Krs\u002B1hNVpobvxC63FRUOhT5fjA/9nbS7D6wDzyGp87DSzbfSAdmpV2gbFLprMvWbBsDxnrWh83qJEbHVYxiCbOROepXMpuEgtWPSd1TT4Sl077aHvMkutpT9iv1\u002BgsibzIpVYsNcxoFAugJRvRRrG497jNpbAvKM\u002Bnt79n09la2QEep/R\u002ButtdDWbKoySk09ICbDTmk17BSS4f1Izh7\u002BqYcF91z2uuQBfgN8FV7RIFLhdwAAAABJRU5ErkJggg==",
+              "WhenOpened": "2026-05-20T16:51:07.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "schemas.py",
+              "DocumentMoniker": "C:\\Users\\Sasha\\Desktop\\MusicEditor\\backend\\schemas.py",
+              "RelativeDocumentMoniker": "backend\\schemas.py",
+              "ToolTip": "C:\\Users\\Sasha\\Desktop\\MusicEditor\\backend\\schemas.py",
+              "RelativeToolTip": "backend\\schemas.py",
+              "ViewState": "AgIAABgAAAAAAAAAAAAQwCcAAAAfAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAALbSURBVDhPpZRRSFNhFMf/997dberVJiWtMNwIyehJm5RUoLkHoQcJKiQon3zopXyIJETsRQ2kQnxoINFTT71VID2p2DCSQtpot5jMaIK10ql3a9ruvr7v293cNQ2tHxzOdw6X/87OOd8n4NXKaUB6DBALdoAs6K9LihevxWvdcSO1ASGECiZW6UkxUn/FIugol\u002BIok348nVVe3somxTSqu6L8TBF3K\u002BYQl7FXTFysyJRGIJAIdP0L1L4bxmegFWrEOANP7gOfPxnBBiIIrMJ6gf2CJKxhXkwic7wKuOChXZMOZStlgjmrPcPEd2fn6wjUfoLQgIvG7C//yeTkJCKRCKanp9Ha2spz3d3dCIVCmJqaQnNzM88xymkrCtlyspWVlXC73aipqcHo6CiPPR4P6uvr4XK5MDIyAr/fj1QqhSNiAkHo0AypLStk9Pb2YnBwEOPj4/B6vfD5fNA0DcFgEA0NDVyMUSak0FX0XsPR23Ms3lZwYmICPT096OjogKqqaGxs5Hm73Y7h4WHuGWxAl2yqEotVnWOxSVDgfc7CKpuZmUE6ncbQ0BBaWlp4bwOBABYWFvIVsqmzVZKx5ltacjnyU7b4l4lcd5JPjvbMPEnDWN7hcJhybW0lJB5z5uwhrzC3tMwzotH84ptg\u002BXjcfONEZIwTp12kIi9yN0BG2sj/M0WiUrx4pVxcuVkmLX2zCP8tCAt7NeKRO4\u002Bs63KfTdR4cmxsjPtCmpqajNNO\u002BHj3Krs\u002B1hNVpobvxC63FRUOhT5fjA/9nbS7D6wDzyGp87DSzbfSAdmpV2gbFLprMvWbBsDxnrWh83qJEbHVYxiCbOROepXMpuEgtWPSd1TT4Sl077aHvMkutpT9iv1\u002BgsibzIpVYsNcxoFAugJRvRRrG497jNpbAvKM\u002Bnt79n09la2QEep/R\u002ButtdDWbKoySk09ICbDTmk17BSS4f1Izh7\u002BqYcF91z2uuQBfgN8FV7RIFLhdwAAAABJRU5ErkJggg==",
+              "WhenOpened": "2026-05-20T17:01:10.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "database.py",
+              "DocumentMoniker": "C:\\Users\\Sasha\\Desktop\\MusicEditor\\backend\\database.py",
+              "RelativeDocumentMoniker": "backend\\database.py",
+              "ToolTip": "C:\\Users\\Sasha\\Desktop\\MusicEditor\\backend\\database.py",
+              "RelativeToolTip": "backend\\database.py",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAowBUAAAAMAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAALbSURBVDhPpZRRSFNhFMf/997dberVJiWtMNwIyehJm5RUoLkHoQcJKiQon3zopXyIJETsRQ2kQnxoINFTT71VID2p2DCSQtpot5jMaIK10ql3a9ruvr7v293cNQ2tHxzOdw6X/87OOd8n4NXKaUB6DBALdoAs6K9LihevxWvdcSO1ASGECiZW6UkxUn/FIugol\u002BIok348nVVe3somxTSqu6L8TBF3K\u002BYQl7FXTFysyJRGIJAIdP0L1L4bxmegFWrEOANP7gOfPxnBBiIIrMJ6gf2CJKxhXkwic7wKuOChXZMOZStlgjmrPcPEd2fn6wjUfoLQgIvG7C//yeTkJCKRCKanp9Ha2spz3d3dCIVCmJqaQnNzM88xymkrCtlyspWVlXC73aipqcHo6CiPPR4P6uvr4XK5MDIyAr/fj1QqhSNiAkHo0AypLStk9Pb2YnBwEOPj4/B6vfD5fNA0DcFgEA0NDVyMUSak0FX0XsPR23Ms3lZwYmICPT096OjogKqqaGxs5Hm73Y7h4WHuGWxAl2yqEotVnWOxSVDgfc7CKpuZmUE6ncbQ0BBaWlp4bwOBABYWFvIVsqmzVZKx5ltacjnyU7b4l4lcd5JPjvbMPEnDWN7hcJhybW0lJB5z5uwhrzC3tMwzotH84ptg\u002BXjcfONEZIwTp12kIi9yN0BG2sj/M0WiUrx4pVxcuVkmLX2zCP8tCAt7NeKRO4\u002Bs63KfTdR4cmxsjPtCmpqajNNO\u002BHj3Krs\u002B1hNVpobvxC63FRUOhT5fjA/9nbS7D6wDzyGp87DSzbfSAdmpV2gbFLprMvWbBsDxnrWh83qJEbHVYxiCbOROepXMpuEgtWPSd1TT4Sl077aHvMkutpT9iv1\u002BgsibzIpVYsNcxoFAugJRvRRrG497jNpbAvKM\u002Bnt79n09la2QEep/R\u002ButtdDWbKoySk09ICbDTmk17BSS4f1Izh7\u002BqYcF91z2uuQBfgN8FV7RIFLhdwAAAABJRU5ErkJggg==",
+              "WhenOpened": "2026-05-20T16:54:49.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "postcss.config.js",
+              "DocumentMoniker": "C:\\Users\\Sasha\\Desktop\\MusicEditor\\frontend\\postcss.config.js",
+              "RelativeDocumentMoniker": "frontend\\postcss.config.js",
+              "ToolTip": "C:\\Users\\Sasha\\Desktop\\MusicEditor\\frontend\\postcss.config.js",
+              "RelativeToolTip": "frontend\\postcss.config.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-05-20T20:39:42.354Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
