@@ -1,7 +1,6 @@
 from sqlalchemy import create_engine
 from sqlalchemy.orm import sessionmaker, declarative_base
 
-# ⚠️ ВАЖЛИВО: Заміни 'твій_пароль' на той пароль, який ти вводив при встановленні PostgreSQL!
 # Ми підключимося до стандартної бази даних 'postgres', яка створюється автоматично.
 DATABASE_URL = "postgresql://postgres:Ss122333444@localhost:5432/postgres"
 
